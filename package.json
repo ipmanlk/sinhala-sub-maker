@@ -1,0 +1,30 @@
+{
+  "name": "@ipmanlk/sinhala-sub-maker",
+  "version": "1.3.0",
+  "description": "Translate English subtitle to Sinhala",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipmanlk/sinhala-sub-maker.git"
+  },
+  "keywords": [
+    "sinhala",
+    "subtitle",
+    "baiscopelk"
+  ],
+  "author": "ipmanlk",
+  "bugs": {
+    "url": "https://github.com/ipmanlk/sinhala-sub-maker/issues"
+  },
+  "homepage": "https://github.com/ipmanlk/sinhala-sub-maker#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "subtitle": "^2.0.3"
+  }
+}
